@@ -1,0 +1,7 @@
+{
+  "appId": "com.smartsensi.ai",
+  "appName": "SMART SENSI AI",
+  "webDir": "www",
+  "backgroundColor": "#0b0b1a",
+  "server": { "androidScheme": "https" }
+}
